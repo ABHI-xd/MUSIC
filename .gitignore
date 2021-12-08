@@ -1,0 +1,4 @@
+*.log
+*.png
+SNEHABHI/__pycache__
+SNEHABHI/*session*
