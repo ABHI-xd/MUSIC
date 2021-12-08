@@ -1,6 +1,6 @@
 import asyncio
 import os
-from yt_dlp import youtube_dl
+import youtube_dl
 
 from datetime import datetime
 from pyrogram import Client, filters
